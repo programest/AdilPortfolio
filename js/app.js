@@ -405,7 +405,7 @@
 		preloader.style.display = "none";
 		preloader.classList.remove("loaded_hiding");
 	})
-		, 1500);
+		, 2200);
 
 
 	window["FLS"] = true;
