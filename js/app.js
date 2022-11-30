@@ -4,7 +4,7 @@
 		document.addEventListener('DOMContentLoaded', function () {
 			document.body.classList.add('ready');
 		})
-	}), 1200);
+	}), 3700);
 	"use strict";
 	function isWebp() {
 		function testWebP(callback) {
