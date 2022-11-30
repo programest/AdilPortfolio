@@ -430,7 +430,7 @@ var changeLocaleService = (function () {
 	function loadLocale(defLang) {
 
 		var xhr = new XMLHttpRequest();
-		xhr.open("GET", '/lang.json', true);
+		xhr.open("GET", 'https://programest.github.io/AdilPortfolio/lang.json', true);
 		xhr.onreadystatechange = saveLocale.bind(this);
 		xhr.onerror = function () { console.log("no found page"); };
 		xhr.send();
