@@ -4,7 +4,7 @@
 		document.addEventListener('DOMContentLoaded', function () {
 			document.body.classList.add('ready');
 		})
-	}), 3700);
+	}), 2500);
 	"use strict";
 	function isWebp() {
 		function testWebP(callback) {
@@ -405,7 +405,7 @@
 		preloader.style.display = "none";
 		preloader.classList.remove("loaded_hiding");
 	})
-		, 3500);
+		, 2500);
 
 
 	window["FLS"] = true;
