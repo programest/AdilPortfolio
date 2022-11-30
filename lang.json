@@ -1,0 +1,384 @@
+{
+	"en": {
+		"menu": [
+			"Home",
+			"Introduction",
+			"Next"
+		],
+		"home": [
+			"Works",
+			"Contact",
+			"About"
+		],
+		"title": [
+			"Hi, my name's Adil and i ",
+			"FRONT-END WEB DEVELOPER",
+			"«It's better to regret something you tried,than regret not trying it.»"
+		],
+		"skills": {
+			"title": "Skills",
+			"icon": [
+				"Know very well",
+				"Know the basic level",
+				"Know very well",
+				"Know  well",
+				"Know  well",
+				"Know the basic level"
+			]
+		},
+		"works": {
+			"title": "Works",
+			"work": [
+				{
+					"text": "English tutor website",
+					"button": "Look"
+				},
+				{
+					"text": "Site for the contest in 1 day",
+					"button": "Look"
+				},
+				{
+					"text": "Almaty bike rental website",
+					"button": "Look"
+				},
+				{
+					"text": "Second job for the company dtv group",
+					"button": "Look"
+				},
+				{
+					"text": "Landing page for the sale of portable heaters",
+					"button": "Look"
+				},
+				{
+					"text": "Landing page for multi-Grammy nominated singer",
+					"button": "Look"
+				},
+				{
+					"text": "Landing site selling accessories for men",
+					"button": "Look"
+				}
+			],
+			"button": [
+				{
+					"all": "See More",
+					"reall": "Hide"
+				}
+			]
+		},
+		"contact": {
+			"title": "Contacts:",
+			"phone": "Phone:",
+			"social": "Social:"
+		},
+		"about": {
+			"title": "About Me",
+			"about": "About",
+			"year": "a year ",
+			"underlines": "absolutely",
+			"text2": "everything in the frontend, I love to face  and ",
+			"underline2": "solve",
+			"text3": "them, I like to bother with animation and do it well.",
+			"text4": "solutions to complete tasks.",
+			"underline3": "interesting",
+			"work": [
+				{
+					"text": "Hi! My name is ",
+					"underline": "Adil",
+					"text2": "I'm from Kazakhstan, I'm 18 years old and I'm a",
+					"underline2": " Front-end developer"
+				},
+				{
+					"text": " I doing site layout, previously engaged in .",
+					"underline2": "Python."
+				},
+				{
+					"text": "I like"
+				},
+				{
+					"text": "I am always looking for"
+				}
+			]
+		},
+		"work6": {
+			"worksubtitle": "English tutor website",
+			"visit": "VISIT WEBSITE",
+			"info": [
+				{
+					"title": "ROLE:",
+					"text": "Full Stack"
+				},
+				{
+					"title": "STACK:",
+					"text": "Sass, Html, JS, Figma, Gulp"
+				},
+				{
+					"title": "DATE:",
+					"text": "2022/09"
+				}
+			],
+			"titleintroduction": "Introduction",
+			"subintroduction": "About Work",
+			"text2": "that would stand out from the competition. There are 2 forms on the site and it was necessary to arrange them so that the user would definitely leave a request.I have been making this website for a",
+			"underline2": "little over a month.",
+			"introduction": [
+				{
+					"text": "I did this work for a ",
+					"underline": "math teacher",
+					"text2": "who has been working for over",
+					"underline2": "30 years."
+				},
+				{
+					"text": "I had to do everything myself, Design, Layout, Frontend, Backend. I first encountered ",
+					"underline": "JSON",
+					"text2": ",he seemed very useful to me. And for the first time I worked with the ",
+					"underline2": "admin panel.",
+					"text3": "I used",
+					"underline3": "PHP-Mailer",
+					"text4": "for the first time to submit a form."
+				},
+				{
+					"text": "It was necessary to make a ",
+					"underline": "colorful website "
+				},
+				{
+					"text": "I think I did it on 8.5 out of 10."
+				}
+			],
+			"process": {
+				"process": "Process",
+				"text": [
+					{
+						"text": "I started with the title. It was necessary to make it loud so that it would immediately attract attention.This one was chosen because I think that mathematics lessons in schools are very boring and not interesting, and a teacher with a different presentation of information is needed."
+					},
+					{
+						"text": "Further, in order to interest the user, I used an attractive USP. It works when scrolling the page and the numbers are updated.It is important that you need to write those advantages that other competitor sites do not have."
+					},
+					{
+						"text": "I thought for a long time how best to make courses so that it would not be boring, but there was a lot of information. I decided that if a person is interested, then he will look; if not, then it will be closed. This block is beautiful and contains a lot of information."
+					},
+					{
+						"text": "The site has a map so that it would be easy to get there, but I made it more convenient, you can already build a route on the spot and already go along it. It is very comfortable."
+					},
+					{
+						"text": "It was necessary to place a video on the site. When I embed a YouTube video with its video player, I realized that this is not suitable - YouTube restricts user interaction, I created my video player using JS."
+					},
+					{
+						"text": "It was necessary to place a form and a block of contacts on the 'Get Started' button. I think that it turned out very nice and complete."
+					}
+				]
+			},
+			"complex": {
+				"title": "Complex block",
+				"text": [
+					{
+						"title": "Difficulty",
+						"text": ": The most difficult thing here is to do not just one test, but to do 3 tests with different questions that would show the correct answers at the end. And another difficulty was that the questions should be random and if there are 10 of them, then more than 30 are needed so that they do not repeat."
+					},
+					{
+						"title": "Решение",
+						"text": ": I solved it with the help of classes. For each new test, I created a class and it automatically took all the parameters. In order for the program to understand which test the user opened, I used classes. On each click, a class is applied. And I solved a large number of issues using JSON."
+					}
+				]
+			},
+			"next": {
+				"text": "Go to next work:"
+			},
+			"intro": "ADIL thinks"
+		},
+		"lang": "Language"
+	},
+	"ru": {
+		"menu": [
+			"Главная",
+			"Введение",
+			"Следующая "
+		],
+		"home": [
+			"Работы",
+			"Контакты",
+			"Об мне "
+		],
+		"title": [
+			"Хэй, меня зовут Адиль и я ",
+			"FRONT-END разработчик",
+			"«Лучше сделать и пожалеть, чем не сделать и пожалеть дважды»"
+		],
+		"skills": {
+			"title": "Умение",
+			"icon": [
+				"Знаю очень хорошо",
+				"Знаю на базовом уровне",
+				"Знаю очень хорошо",
+				"Знаю хорошо",
+				"Знаю хорошо",
+				"Знаю на базовом уровне"
+			]
+		},
+		"works": {
+			"title": "Работы",
+			"work": [
+				{
+					"text": "Сайт для репититора по математике",
+					"button": "Подробнее"
+				},
+				{
+					"text": "Сайт на который было всего 1 день",
+					"button": "Подробнее"
+				},
+				{
+					"text": "AlmatyBike велопрокат в Алмате",
+					"button": "Подробнее"
+				},
+				{
+					"text": "Вторая работа для DTV group",
+					"button": "Подробнее"
+				},
+				{
+					"text": "Лэндинг работа по продаже обогревателей",
+					"button": "Подробнее"
+				},
+				{
+					"text": "Лэндинг работа для известной певицы",
+					"button": "Подробнее"
+				},
+				{
+					"text": "Лэндинг работа по продаже аксессуаров",
+					"button": "Подробнее"
+				}
+			],
+			"button": [
+				{
+					"all": "Посмотреть еще",
+					"reall": "Скрыть"
+				}
+			]
+		},
+		"contact": {
+			"title": "Контакты:",
+			"phone": "Номер телефона:",
+			"social": "Социальные сети:"
+		},
+		"about": {
+			"title": "Об мне",
+			"about": "Около",
+			"year": " года",
+			"underlines": "все",
+			"text2": "во фронтенде я люблю сталкиваться с проблемами и ",
+			"underline2": "решать",
+			"text3": "их, люблю возиться с анимацией и делать это хорошо.",
+			"text4": "решения для выполнения задач.",
+			"underline3": "интересные",
+			"work": [
+				{
+					"text": "Привет! Меня зовут ",
+					"underline": "Адиль",
+					"text2": "я из Казахстана, мне 18 лет, и я ",
+					"underline2": "фронтенд-разработчик."
+				},
+				{
+					"text": " я занимаюсь версткой сайта, ранее занимался",
+					"underline2": "Python. "
+				},
+				{
+					"text": "Мне нравится"
+				},
+				{
+					"text": "Я всегда ищу "
+				}
+			]
+		},
+		"work6": {
+			"worksubtitle": "Сайт для репититора по математике",
+			"visit": "ПОСЕТИТЬ САЙТ",
+			"info": [
+				{
+					"title": "РОЛЬ:",
+					"text": "Full Stack"
+				},
+				{
+					"title": "СТЭК:",
+					"text": "Sass, Html, JS, Figma, Gulp"
+				},
+				{
+					"title": "ДАТА:",
+					"text": "2022/09"
+				}
+			],
+			"titleintroduction": "Введение",
+			"subintroduction": "О работе",
+			"text2": "который выделял бы его на фоне всех конкурентов. На сайте есть 2 формы, и необходимо было расположить их так, чтобы пользователь обязательно оставил запрос. Я создавал этот веб-сайт ",
+			"underline2": "чуть больше месяца.",
+			"text": "Я думаю выполнил этот сайт на 8.5 из 10.",
+			"so": " так ",
+			"introduction": [
+				{
+					"text": "Я делал эту работу для ",
+					"underline": "репетитора",
+					"text2": "который работает уже более",
+					"underline2": "30 лет."
+				},
+				{
+					"text": "Мне пришлось все делать самому, Дизайн, Верстка Frontend, Backend. Я впервые столкнулся с ",
+					"underline": "JSON",
+					"text2": ",он показался мне очень полезным. И я впервые работал с",
+					"underline2": "админ панелью.",
+					"text3": "Так же я использовал",
+					"underline3": "PHP-Mailer",
+					"text4": "впервые для отправки формы."
+				},
+				{
+					"text": "Необходимо было сделать ",
+					"underline": "красочный сайт "
+				},
+				{
+					"text": "Я думаю выполнил этот сайт на 8.5 из 10."
+				}
+			],
+			"process": {
+				"process": "Процес",
+				"text": [
+					{
+						"text": "Я начал с загаловка. Нужно было сделать загаловок громкий, чтобы это сразу привлекло внимание.Этот был выбран потому, что я считаю, что уроки математики в школах очень скучные и неинтересные, и нужен учитель с другой подачей информации."
+					},
+					{
+						"text": "Далее, чтобы заинтересовать пользователя, я использовал привлекательный УТП. Это работает при прокрутке страницы и обновлении цифр.Важно, что мне нужно было написать те преимущества, которых нет у других сайтов-конкурентов."
+					},
+					{
+						"text": "Я долго думал, как лучше сделать курсы, чтобы не было скучно, но информации было много. Я решил, что если человеку интересно, то он посмотрит; если нет, то это будет закрыто. Этот блок красив и содержит много информации."
+					},
+					{
+						"text": "На сайте есть карта, чтобы было легко  добраться в офис, но я сделал ее более удобной, вы можете построить маршрут на месте и уже ехать по нему. Это очень удобно."
+					},
+					{
+						"text": "Необходимо было разместить видео на сайте. Когда я вставил видео YouTube с его видеоплеером, я понял, что это не подходит - YouTube ограничивает взаимодействие с пользователем, я создал свой видеоплеер с помощью JS."
+					},
+					{
+						"text": "Необходимо было разместить форму и блок контактов на кнопке 'Начать'. Я думаю, что это получилось очень красиво и завершенно."
+					}
+				]
+			},
+			"complex": {
+				"title": "Сложный блок",
+				"text": [
+					{
+						"title": "Сложность",
+						"text": ": Самое сложное здесь — сделать не один тест, а сделать 3 теста с разными вопросами, которые в конце покажут правильные ответы. И еще сложность заключалась в том, что вопросы должны быть случайными и если их 10, то нужно больше 30, чтобы они не повторялись."
+					},
+					{
+						"title": "Решение",
+						"text": ": Решил с помощью классов. Для каждого нового теста я создавал класс и он автоматически принимал все параметры. Чтобы программа понимала, какой тест открыл пользователь, я использовал классы. При каждом щелчке применяется класс. И я решил большое количество вопросов с помощью JSON."
+					}
+				]
+			},
+			"next": {
+				"text": "Следующая работа"
+			}
+		},
+		"word": {
+			"had": "Мне пришлось ",
+			"work": "Я думаю сделал этот сайт на 6 из 10."
+		},
+		"intro": "Адиль думает . . .",
+		"lang": "Язык"
+	}
+}
