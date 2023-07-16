@@ -77,18 +77,18 @@
 			"underlines": "absolutely",
 			"text2": "everything in the frontend, I love to face  and ",
 			"underline2": "solve",
-			"text3": "them, I like to bother with animation and do it well.",
+			"text3": "them, I love a typed approach and when everything is on the shelves",
 			"text4": "solutions to complete tasks.",
 			"underline3": "interesting",
 			"work": [
 				{
 					"text": "Hi! My name is ",
 					"underline": "Adil",
-					"text2": "I'm from Kazakhstan, I'm 18 years old and I'm a",
+					"text2": "I'm from Kazakhstan, I'm 19 years old and I'm a",
 					"underline2": " Front-end developer"
 				},
 				{
-					"text": " I doing site layout, previously engaged in .",
+					"text": " I doing Frontend deveplment, previously engaged in .",
 					"underline2": "Python."
 				},
 				{
@@ -100,8 +100,9 @@
 			]
 		},
 		"work7": {
-			"multiply" : "multiple",
-			"UTP" : "UTP"
+			"multiply" : "multiple ",
+			"UTP" : " UTP ",
+			"policies":  " policies"
 		},
 		"work6": {
 			"worksubtitle": "English tutor website",
@@ -269,18 +270,18 @@
 			"underlines": "все",
 			"text2": "во фронтенде я люблю сталкиваться с проблемами и ",
 			"underline2": "решать",
-			"text3": "их, люблю возиться с анимацией и делать это хорошо.",
+			"text3": "их, люблю типизированный подход и когда все по полочкам .",
 			"text4": "решения для выполнения задач.",
 			"underline3": "интересные",
 			"work": [
 				{
 					"text": "Привет! Меня зовут ",
 					"underline": "Адиль",
-					"text2": "я из Казахстана, мне 18 лет, и я ",
+					"text2": "я из Казахстана, мне 19 лет, и я ",
 					"underline2": "фронтенд-разработчик."
 				},
 				{
-					"text": " я занимаюсь версткой сайта, ранее занимался",
+					"text": " я занимаюсь Frontend, ранее писал на",
 					"underline2": "Python. "
 				},
 				{
@@ -293,7 +294,8 @@
 		},
 		"work7": {
 			"multiply" : "многократное",
-			"UTP" : "УТП"
+			"UTP" : " УТП ",
+			"policies":  " полисах "
 		},
 		"work6": {
 			"worksubtitle": "Сайт для репититора по математике",
