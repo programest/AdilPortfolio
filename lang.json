@@ -18,9 +18,9 @@
 		"skills": {
 			"title": "Skills",
 			"icon": [
-				"Know very well",
+				"Know well",
 				"Know the basic level",
-				"Know very well",
+				"Know well",
 				"Know  well",
 				"Know  well",
 				"Know the basic level"
@@ -98,6 +98,10 @@
 					"text": "I am always looking for"
 				}
 			]
+		},
+		"work7": {
+			"multiply" : "multiple",
+			"UTP" : "UTP"
 		},
 		"work6": {
 			"worksubtitle": "English tutor website",
@@ -206,10 +210,10 @@
 		"skills": {
 			"title": "Умение",
 			"icon": [
-				"Знаю очень хорошо",
+				"Знаю  хорошо",
 				"Знаю на базовом уровне",
-				"Знаю очень хорошо",
-				"Знаю хорошо",
+				"Знаю  хорошо",
+				"Знаю  хорошо",
 				"Знаю хорошо",
 				"Знаю на базовом уровне"
 			]
@@ -286,6 +290,10 @@
 					"text": "Я всегда ищу "
 				}
 			]
+		},
+		"work7": {
+			"multiply" : "многократное",
+			"UTP" : "УТП"
 		},
 		"work6": {
 			"worksubtitle": "Сайт для репититора по математике",
