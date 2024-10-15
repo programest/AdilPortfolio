@@ -30,6 +30,14 @@
 			"title": "Works",
 			"work": [
 				{
+					"text": "Application for selling shaurma",
+					"button": "Look"
+				},
+				{
+					"text": "Interteach travel insurance",
+					"button": "Look"
+				},
+				{
 					"text": "English tutor website",
 					"button": "Look"
 				},
@@ -103,6 +111,11 @@
 			"multiply" : "multiple ",
 			"UTP" : " UTP ",
 			"policies":  " policies"
+		},
+		"work8": {
+			"multiply" : "thesis  ",
+			"user" : "users",
+			"couriers" : "couriers"
 		},
 		"work6": {
 			"worksubtitle": "English tutor website",
@@ -223,6 +236,14 @@
 			"title": "Работы",
 			"work": [
 				{
+					"text": "Приложение для продажи шаурмы",
+					"button": "Подробнее"
+				},
+				{
+					"text": "Сайт по оформлению страховки",
+					"button": "Подробнее"
+				},
+				{
 					"text": "Сайт для репититора по математике",
 					"button": "Подробнее"
 				},
@@ -251,6 +272,7 @@
 					"button": "Подробнее"
 				}
 			],
+			
 			"button": [
 				{
 					"all": "Посмотреть еще",
@@ -296,6 +318,11 @@
 			"multiply" : "многократное",
 			"UTP" : " УТП ",
 			"policies":  " полисах "
+		},
+		"work8": {
+			"multiply" : "дипломная работа",
+			"user" : "пользователей",
+			"couriers" : "курьеров"
 		},
 		"work6": {
 			"worksubtitle": "Сайт для репититора по математике",
