@@ -120,7 +120,7 @@
 		"work9": {
 			"use" : "use",
 			"voice" : "voice assistant",
-			"that" : "that",
+			"that" : "that will",
 			"text": "For speech recognition I chose Whisper. Yes, it could have been done with faster solutions, but for my project this is enough."
 		},
 		"work6": {
