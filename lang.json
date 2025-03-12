@@ -117,6 +117,12 @@
 			"user" : "users",
 			"couriers" : "couriers"
 		},
+		"work9": {
+			"use" : "use",
+			"voice" : "voice assistant",
+			"that" : "that",
+			"text": "For speech recognition I chose Whisper. Yes, it could have been done with faster solutions, but for my project this is enough."
+		},
 		"work6": {
 			"worksubtitle": "English tutor website",
 			"visit": "VISIT WEBSITE",
@@ -323,6 +329,12 @@
 			"multiply" : "дипломная работа",
 			"user" : "пользователей",
 			"couriers" : "курьеров"
+		},
+		"work9": {
+			"use" : "использования",
+			"voice" : "голосовым помощникам",
+			"that" : "который будет",
+			"text": "Для распознавания речи я выбрал Whisper. Да, это можно было сделать и другими более быстрыми решениями, но для моего проекта этого достаточно."
 		},
 		"work6": {
 			"worksubtitle": "Сайт для репититора по математике",
