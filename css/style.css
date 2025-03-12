@@ -4329,7 +4329,7 @@ transition: all 0.3s linear;
 
 .webp .work__back8{ background: url(../img/work8/poster.webp) no-repeat center/cover, #8f8e8e; }
 .webp .work__back9 {
-  background: url(../img/work9/poster.png) no-repeat center/cover, #8f8e8e;
+  background: url(../img/work9/poster.webp) no-repeat center/cover, #8f8e8e;
   min-height: 100vh;
   max-height: 100vh;
 }
